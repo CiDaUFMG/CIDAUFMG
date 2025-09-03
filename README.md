@@ -1,8 +1,9 @@
 <h1>Repositório do Grupo de Estudo de Ciências de Dados, IA & Animais.</h1>
 <h2>Esse projeto registra a progressão do grupo de estudos.</h2>
-Tecnologias:<br>
-- Python<br>
-- HTML<br>
+
+**Tecnologias:**<br>
+*- Python*<br>
+*- HTML*<br>
 
 
 
