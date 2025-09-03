@@ -1,2 +1,2 @@
 Imagens utilizadas para divulgação do grupo.
-use o comando git clone para baixar as imagens.
+Use o comando git clone para baixar as imagens.
