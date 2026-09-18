@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/transparente_completa_ufmg.jpg" alt="CiDa UFMG Logo" width="450px">
+  <img src="assets/logo-preto-ingles-final-cida.png" alt="CiDa UFMG Logo" width="450px">
 </p>
 
 <h1 align="center">CiDa — Ciência de Dados, IA e Animais</h1>
